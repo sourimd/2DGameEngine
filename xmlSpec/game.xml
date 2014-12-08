@@ -1,0 +1,158 @@
+<?xml version = "1.0"?>
+<GameData>
+<!-- screenTitle is also used to identify you and your animation. 
+     So make sure to include your name as part of the screenTitle -->
+<screenTitle>Sourim Das</screenTitle>
+<maxStringSize>50</maxStringSize>
+
+<frameCap>60</frameCap>
+<framesAreCapped>true</framesAreCapped>
+
+<frameMax>200</frameMax>
+<username>sourimd</username>
+
+<view>
+  <width>1000</width>
+  <height>600</height>
+</view>
+
+<back>
+  <red>112</red>
+  <green>128</green>
+  <blue>144</blue>
+</back>
+
+<world>
+  <width>5000</width>
+  <height>960</height>
+</world>
+
+<mountains>
+  <file>images/mountains.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>8</factor>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>1280</width>
+  <height>960</height>
+  <transparency>false</transparency>
+</mountains>
+
+<mtdown>
+  <file>images/mtdownputback.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>2</factor>
+  <srcX>0</srcX>
+  <srcY>100</srcY>
+  <width>1280</width>
+  <height>960</height>
+  <transparency>false</transparency>
+</mtdown>
+
+<mtdown1>
+  <file>images/mtdown1.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>1</factor>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>1280</width>
+  <height>960</height>
+  <transparency>false</transparency>
+</mtdown1>
+
+<font name="font">
+  <file>font/dyslexic-bold.otf</file>
+  <size>16</size>
+  <red>0</red>
+  <green>0</green>
+  <blue>0</blue>
+  <unused>0</unused>
+</font>
+
+
+
+<bats>
+  <file>images/bat.png</file>
+  <startLoc x="0" y="450"/>
+
+  <frames>4</frames>
+  <frameInterval>20</frameInterval>
+
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>131</width>
+  <height>110</height>
+  <speedX>-200</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</bats>
+
+
+<star>
+  <file>images/star.png</file>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>32</width>
+  <height>32</height>
+  <angleIncrement>5</angleIncrement>
+  <startLoc x="320" y="240"/>
+  <speedX>-175</speedX>
+  <speedY>-175</speedY>
+  <number>50</number>
+  <transparency>true</transparency>
+</star>
+
+<asteroid>
+  <file>images/asteroid.png</file>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>32</width>
+  <height>32</height>
+  <angleIncrement>5</angleIncrement>
+  <startLoc x="320" y="240"/>
+  <speedX>-175</speedX>
+  <speedY>-175</speedY>
+  <number>25</number>
+  <transparency>true</transparency>
+</asteroid>
+
+<coin>
+  <file>images/coin.png</file>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>32</width>
+  <height>32</height>
+  <angleIncrement>5</angleIncrement>
+  <startLoc x="320" y="240"/>
+  <speedX>0</speedX>
+  <speedY>0</speedY>
+  <number>25</number>
+  <transparency>true</transparency>
+</coin>
+
+<snowflake>
+  <file>images/snowflake.png</file>
+  <scale>
+    <min>0.5</min>
+    <max>2.0</max>
+  </scale>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>20</width>
+  <height>19</height>
+  <startLoc x="320" y="40"/>
+  <speedX>0</speedX>
+  <speedY>10</speedY>
+  <transparency>true</transparency>
+  <number>1000</number>
+</snowflake>
+
+
+
+</GameData>

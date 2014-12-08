@@ -1,0 +1,15 @@
+Name: Sourim Das
+Clemson Email ID: sourimd@clemson.edu
+CpSc 8700: OO Software Design
+
+Project No: 4
+Project Due Date: 21 Oct 2014
+Project Description: Tracker
+
+The Specs that I implemented are: 1-11, from Extra for Experts- 2,3
+Extra: I have used 3 sprites. They are, bat(2 way multi-sprite), snowflakes(rotating and lots of them(number of snowflakes are getting extracted from game.xml)) and green star(rotating). I have added additional key press events. If you press "i" , one bat sprite will get introduced into the world, if you press "j" one green star will get introduced. If you want to delete any sprite first track that and then press "d" i.e. by pressing "d" you can delete only the sprite you are tracking.
+
+Bat Sprite Source:- https://www.touchdevelop.com/app/#
+Background Image Source:-  http://commons.wikimedia.org/wiki/File:Alp_mountains_covered_with_snow.jpg --> Used mirror effect to make it look seamless
+
+

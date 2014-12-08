@@ -1,0 +1,21 @@
+Name: Sourim Das
+Clemson Email ID: sourimd@clemson.edu
+CpSc 8700: OO Software Design
+
+Project No: 7
+Project Due Date: 6th Dec, 2014
+Project Description: Menu & AI
+
+The Specs that I implemented are: All
+
+Extras:
+
+The asteroids/rocks sprites are the smart sprites which are moving around
+in an artificially intelligent manner trying to avoid the player.
+
+I have incorporated the reset feature, which I hadn't done in project 6. On pressing R
+the curent game will stop and a new game will start with health and other features resetted.
+
+When the game concludes, a HUD will pop up at the middle of the screen and on it will be
+written whether the player has won or lost. This HUD will stay on the screen for 2 seconds
+after which the menu page will reappear.
